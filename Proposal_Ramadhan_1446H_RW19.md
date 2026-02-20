@@ -1,35 +1,10 @@
-# (HALAMAN COVER)
+# PROPOSAL KEGIATAN
+# RAMADHAN DAN HALAL BIHALAL 1446 H
 
-<br>
-<br>
-<br>
-
-<center>
-
-# **PROPOSAL KEGIATAN**
-
-# **RAMADHAN DAN HALAL BIHALAL 1446 H**
-
-<br>
-
-## RW 19 – CLUSTER SRIWIJAYA
-
-### Darmawangsa Residence – Bekasi
-
-<br>
-<br>
+**RW 19 – CLUSTER SRIWIJAYA**
+**Darmawangsa Residence – Bekasi**
 
 **Tahun 2026 M / 1446 H**
-
-</center>
-
-<br>
-<br>
-<br>
-
----
-
-<!-- PAGE BREAK -->
 
 ---
 
@@ -49,11 +24,7 @@ Wassalamu'alaikum Warahmatullahi Wabarakatuh.
 
 Bekasi, Februari 2026
 
-Panitia Ramadhan RW 19
-
----
-
-<!-- PAGE BREAK -->
+**Panitia Ramadhan RW 19**
 
 ---
 
@@ -61,64 +32,51 @@ Panitia Ramadhan RW 19
 
 Proposal kegiatan Ramadhan dan Halal Bihalal 1446 H RW 19 Cluster Sriwijaya Darmawangsa Residence – Bekasi telah disusun dan disahkan pada:
 
-|                     |                                   |
-| ------------------- | --------------------------------- |
-| Hari/Tanggal        | ................................  |
-| Waktu               | ................................  |
-| Tempat              | ................................  |
-
-<br>
+| Atribut      | Keterangan                       |
+| ------------ | -------------------------------- |
+| Hari/Tanggal | ................................ |
+| Waktu        | ................................ |
+| Tempat       | ................................ |
 
 **Mengetahui,**
 
-|                     |                     |                     |
-| ------------------- | ------------------- | ------------------- |
-| **Ketua RW 19**     | **Ketua Panitia**       | **Sekretaris**      |
-|                     |                     |                     |
-|                     |                     |                     |
-| _________________   | _________________   | _________________   |
-|                     | Bagus Windhu Aponsa | Adriatmoko          |
-
-<br>
+| Jabatan         | Nama                | Tanda Tangan      |
+| --------------- | ------------------- | ----------------- |
+| **Ketua RW 19** | _________________   |                   |
+| **Ketua DKM**   | ................... | _________________ |
+| **Ketua Panitia**| Bagus Windhu Aponsa | _________________ |
+| **Sekretaris**  | Adriatmoko          | _________________ |
 
 **Panitia Pelaksana:**
 
-|                     |                     |
-| ------------------- | ------------------- |
-| **Bendahara**       | Akbar Kresna        |
-|                     | ................... |
+| Jabatan           | Nama                |
+| ----------------- | ------------------- |
+| **Bendahara**     | Akbar Kresna        |
+| **Ketua Panitia** | ................... |
 
 ---
 
-<!-- PAGE BREAK -->
-
----
-
-# BAB I
-
-# PENDAHULUAN
+# BAB I: PENDAHULUAN
 
 ## A. Latar Belakang
 
 Bulan suci Ramadhan merupakan momentum istimewa bagi umat Islam untuk meningkatkan kualitas ibadah, memperbaiki akhlak, serta memperkuat tali persaudaraan. Allah SWT berfirman dalam Al-Qur'an Surah Al-Baqarah ayat 183:
 
-*"Wahai orang-orang yang beriman! Diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang sebelum kamu agar kamu bertakwa."* (QS. Al-Baqarah: 183)
+> *"Wahai orang-orang yang beriman! Diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang sebelum kamu agar kamu bertakwa."* (QS. Al-Baqarah: 183)
 
 Selain sebagai bulan penuh rahmat dan maghfirah, Ramadhan juga menjadi sarana pembinaan spiritual dan sosial dalam kehidupan bermasyarakat. Nilai-nilai keislaman yang terkandung dalam ibadah puasa, tadarus Al-Qur'an, shalat tarawih, dan sedekah dapat membentuk karakter individu yang lebih baik dan memperkuat hubungan sosial antar warga.
 
 Sebagai bagian dari masyarakat RW 19 Cluster Sriwijaya, penting bagi kita untuk menghadirkan kegiatan yang mampu menumbuhkan nilai-nilai keislaman sekaligus mempererat kebersamaan antar warga. Kegiatan Ramadhan dan Halal Bihalal menjadi wadah yang tepat untuk membina generasi muda, khususnya anak-anak, dalam mengenal dan mengamalkan ajaran Islam dengan cara yang menyenangkan dan edukatif.
 
-Melalui kegiatan ini, diharapkan warga tidak hanya merasakan semangat ibadah di bulan Ramadhan, tetapi juga dapat melanjutkan nilai-nilai positif tersebut dalam kehidupan sehari-hari setelah Ramadhan berakhir.
-
 ## B. Tujuan Kegiatan
 
-1.  Menyambut dan memeriahkan bulan suci Ramadhan 1446 H dengan kegiatan yang positif dan bermanfaat.
-2.  Meningkatkan keimanan dan ketakwaan warga kepada Allah SWT melalui ibadah puasa, shalat tarawih, tadarus Al-Qur'an, dan kajian Islam.
-3.  Membentuk generasi muda yang berakhlak mulia dan berlandaskan nilai-nilai Islam sejak dini.
-4.  Mempererat silaturahmi dan ukhuwah Islamiyah antar warga RW 19 Cluster Sriwijaya.
-5.  Menumbuhkan kepedulian sosial melalui kegiatan berbagi dan kebersamaan, terutama kepada warga yang kurang mampu.
-6.  Menciptakan lingkungan yang religius, harmonis, dan penuh kekeluargaan.
-7.  Memberikan edukasi keislaman yang menyenangkan bagi anak-anak melalui Pesantren Kilat.
+1. Menyambut dan memeriahkan bulan suci Ramadhan 1446 H dengan kegiatan yang positif dan bermanfaat.
+2. Meningkatkan keimanan dan ketakwaan warga kepada Allah SWT melalui ibadah puasa, shalat tarawih, tadarus Al-Qur'an, dan kajian Islam.
+3. Membentuk generasi muda yang berakhlak mulia dan berlandaskan nilai-nilai Islam sejak dini.
+4. Mempererat silaturahmi dan ukhuwah Islamiyah antar warga RW 19 Cluster Sriwijaya.
+5. Menumbuhkan kepedulian sosial melalui kegiatan berbagi dan kebersamaan, terutama kepada warga yang kurang mampu.
+6. Menciptakan lingkungan yang religius, harmonis, dan penuh kekeluargaan.
+7. Memberikan edukasi keislaman yang menyenangkan bagi anak-anak melalui Pesantren Kilat.
 
 ## C. Tema Kegiatan
 
@@ -126,399 +84,183 @@ Melalui kegiatan ini, diharapkan warga tidak hanya merasakan semangat ibadah di 
 
 ---
 
-<!-- PAGE BREAK -->
-
----
-
-# BAB II
-
-# RENCANA KEGIATAN
+# BAB II: RENCANA KEGIATAN
 
 ## A. Nama dan Bentuk Kegiatan
 
-Nama kegiatan ini adalah **"Ramadhan dan Halal Bihalal 1446 H RW 19 Cluster Sriwijaya"** dengan bentuk kegiatan sebagai berikut:
+Nama kegiatan ini adalah **"Ramadhan dan Halal Bihalal 1446 H RW 19 Cluster Sriwijaya"** dengan rincian kegiatan sebagai berikut:
 
-### 1. Kajian Ramadhan (5 Pertemuan)
+### 1. Shalat Tarawih & Kajian Ramadhan
+Shalat Tarawih berjamaah yang disertai dengan kajian Islam rutin.
 
-Kajian Islam rutin yang menghadirkan penceramah dari berbagai latar belakang untuk membahas tema-tema keislaman yang relevan dengan kehidupan sehari-hari.
+| Detail   | Keterangan                                            |
+| -------- | ----------------------------------------------------- |
+| Mulai    | Rabu, 19 Februari 2026                                 |
+| Lokasi   | Masjid Cluster Sriwijaya                               |
+| Agenda   | Kajian malam pertama & rutin 1 minggu sekali          |
 
-| Detail         | Keterangan                    |
-| -------------- | ----------------------------- |
-| Jumlah         | 5 kali pertemuan              |
-| Peserta        | Seluruh warga RW 19           |
-| Waktu          | Malam hari (ba'da Tarawih)    |
-| Tempat         | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster       |
-| Konsumsi       | Snack dan minuman             |
+### 2. Tadarus Al-Qur'an Bapak-Bapak
+Kegiatan membaca dan mempelajari Al-Qur'an bersama bagi warga laki-laki.
 
-### 2. Pesantren Kilat (Sanlat) Anak – 3 Hari
+| Detail   | Keterangan                                            |
+| -------- | ----------------------------------------------------- |
+| Waktu    | Setiap Malam Jumat                                    |
+| Jam      | Setelah Shalat Tarawih                                |
+| Tempat   | Masjid Cluster Sriwijaya                               |
 
-Program pendidikan Islam intensif untuk anak-anak usia 6-12 tahun dengan materi dasar-dasar Islam, hafalan surat pendek, dan praktik ibadah.
+### 3. Tadarus Al-Qur'an Ibu-Ibu
+Kegiatan tadarus bersama khusus bagi warga perempuan.
 
-| Detail         | Keterangan                          |
-| -------------- | ----------------------------------- |
-| Durasi         | 3 hari                              |
-| Peserta        | Anak-anak usia 6-12 tahun           |
-| Materi         | Aqidah, Fiqih, Akhlak, Hafalan      |
-| Waktu          | Ba'da Ashar - Maghrib               |
-| Tempat         | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster             |
-| Konsumsi       | Snack dan buka puasa bersama        |
-| Penutupan      | Pembagian hadiah dan medali         |
+| Detail   | Keterangan                                            |
+| -------- | ----------------------------------------------------- |
+| Tanggal  | 21 – 22 Februari 2026                                 |
+| Waktu    | Ba’da Ashar                                           |
+| Tempat   | Masjid Cluster Sriwijaya                               |
 
-### 3. Tadarus Al-Qur'an Bapak-Bapak (5 Pertemuan)
+### 4. Pesantren Kilat (Sanlat) Anak-Anak
+Program pendidikan Islam intensif untuk anak-anak dengan materi yang edukatif dan menyenangkan.
 
-Kegiatan membaca dan mempelajari Al-Qur'an secara bersama-sama untuk meningkatkan kecintaan terhadap Al-Qur'an.
+| Detail   | Keterangan                                            |
+| -------- | ----------------------------------------------------- |
+| Tanggal  | 6 – 8 Maret 2026                                      |
+| Waktu    | Ba’da Ashar                                           |
+| Peserta  | Anak-anak Cluster Sriwijaya                           |
+| Penutupan| Buka puasa bersama & pembagian hadiah/medali          |
 
-| Detail         | Keterangan                    |
-| -------------- | ----------------------------- |
-| Jumlah         | 5 kali pertemuan              |
-| Peserta        | Bapak-bapak warga RW 19       |
-| Waktu          | Ba'da Subuh atau ba'da Ashar  |
-| Tempat         | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster       |
-| Konsumsi       | Snack dan minuman             |
+### 5. Santunan Anak Yatim, Piatu & Duafa
+Kegiatan sosial untuk berbagi kebahagiaan dengan sesama dan petugas lingkungan.
 
-### 4. Imam & Bilal Ramadhan (1 Pertemuan)
-
-Pelatihan dan praktik menjadi imam dan bilal untuk shalat tarawih berjamaah.
-
-| Detail         | Keterangan                    |
-| -------------- | ----------------------------- |
-| Peserta        | Seluruh warga RW 19             |
-| Waktu          | 1 kali pertemuan              |
-| Tempat         | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster       |
-| Materi         | Praktik imam dan bilal        |
-
-### 5. Buka Bersama Penutupan Sanlat
-
-Acara buka puasa bersama sebagai penutupan rangkaian Pesantren Kilat anak-anak, dilanjutkan dengan pembagian hadiah dan medali.
-
-| Detail         | Keterangan                    |
-| -------------- | ----------------------------- |
-| Peserta        | Anak-anak Sanlat + Orang Tua  |
-| Jumlah         | ±50 orang                     |
-| Waktu          | Ba'da Ashar - Isya            |
-| Tempat         | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster       |
-| Konsumsi       | Makan malam prasmanan         |
+| Detail         | Keterangan                                            |
+| -------------- | ----------------------------------------------------- |
+| **Sistem**     | Voucher Rp 25.000,- / lembar                          |
+| **Pembelian**  | 19 Februari – 5 Maret 2026                            |
+| **Metode**     | Transfer melalui Bendahara RT masing-masing           |
+| **Penyaluran** | Sabtu, 7 Maret 2026 (Ba’da Ashar)                     |
+| **Penerima**   | Yatim/Piatu/Duafa, Security, Kebersihan, & ART        |
 
 ### 6. Halal Bihalal Warga RW 19
+Acara silaturahmi akbar seluruh warga Cluster Sriwijaya untuk mempererat persaudaraan.
 
-Acara silaturahmi akbar warga RW 19 setelah Idul Fitri untuk saling memaafkan dan mempererat tali persaudaraan.
+| Detail   | Keterangan                                            |
+| -------- | ----------------------------------------------------- |
+| Tanggal  | Sabtu, 18 April 2026                                  |
+| Jam      | 19.00 sd Selesai                                      |
+| Tempat   | Area Cluster Sriwijaya                                |
+| Peserta  | 250 Orang                                             |
+| Konsumsi | Nasi prasmanan, dessert, ice cream, dll               |
 
-| Detail         | Keterangan                    |
-| -------------- | ----------------------------- |
-| Peserta        | Seluruh warga RW 19           |
-| Waktu          | Setelah Idul Fitri 1446 H     |
-| Tempat         | Area Cluster Sriwijaya        |
-| Konsumsi       | Nasi prasmanan + dessert      |
-| Hiburan        | Penceramah & doa bersama      |
+## B. Jadwal Ringkas
 
-## B. Waktu dan Tempat Pelaksanaan
-
-| No | Kegiatan                      | Waktu Pelaksanaan        | Tempat                  |
-| -- | ----------------------------- | ------------------------ | ----------------------- |
-| 1  | Kajian Ramadhan               | 5 malam (ba'da Tarawih)  | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster          |
-| 2  | Pesantren Kilat Anak          | 3 hari berturut-turut    | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster          |
-| 3  | Tadarus Al-Qur'an             | 5 pertemuan              | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster          |
-| 4  | Imam & Bilal Ramadhan         | 1 pertemuan              | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster          |
-| 5  | Buka Bersama Penutupan Sanlat | Akhir Ramadhan           | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster          |
-| 6  | Halal Bihalal Warga           | Setelah Idul Fitri 1446H | Area Cluster Sriwijaya  |
-
-## C. Peserta Kegiatan
-
-Peserta kegiatan ini adalah seluruh warga RW 19 Cluster Sriwijaya Darmawangsa Residence – Bekasi, dengan rincian:
-
--   Anak-anak usia 6-12 tahun (Sanlat)
--   Remaja masjid
--   Bapak-bapak dan Ibu-ibu warga RW 19
--   Pengurus RT, RW, dan DKM
+| No | Kegiatan                      | Tanggal / Waktu          | Tempat       |
+| -- | ----------------------------- | ------------------------ | ------------ |
+| 1  | Shalat Tarawih & Kajian       | Mulai 19 Feb 2026        | Masjid       |
+| 2  | Tadarus Bapak-Bapak           | Setiap Malam Jumat       | Masjid       |
+| 3  | Tadarus Ibu-Ibu               | 21 – 22 Feb 2026         | Masjid       |
+| 4  | Pesantren Kilat Anak          | 6 – 8 Mar 2026           | Masjid       |
+| 5  | Penyaluran Santunan           | 7 Mar 2026 (Ba'da Ashar)  | Masjid       |
+| 6  | Halal Bihalal Warga           | 18 Apr 2026 (19.00)      | Area Cluster |
 
 ---
 
-<!-- PAGE BREAK -->
+# BAB III: SUSUNAN PANITIA
+
+## A. Struktur Utama
+
+- **Penanggung Jawab:** Ketua RW 19 & Ketua RT 1-5
+- **Ketua Panitia:** Bagus Windhu Aponsa
+- **Sekretaris:** Adriatmoko
+- **Bendahara:** Akbar Kresna
+- **Pelindung:** Ketua DKM (...................), Tokoh Masyarakat & Agama RW 19
+
+## B. Seksi Pelaksana
+
+| Seksi              | Koordinator |
+| ------------------ | ----------- |
+| Seksi Acara        | ........... |
+| Seksi Konsumsi     | ........... |
+| Seksi Perlengkapan | ........... |
+| Seksi Dokumentasi  | ........... |
+| Seksi Humas        | ........... |
+| Seksi Keamanan     | ........... |
+| Seksi Kebersihan   | ........... |
 
 ---
 
-# BAB III
+# BAB IV: RENCANA ANGGARAN BIAYA (RAB)
 
-# SUSUNAN PANITIA
+## A. Pesantren Kilat (Sanlat) Anak
+| No | Uraian | Volume | Satuan | Harga Satuan | Jumlah |
+| -- | ------ | ------ | ------ | ------------ | ------ |
+| 1 | Spanduk Sanlat | 1 | Unit | Rp 150.000 | Rp 150.000 |
+| 2 | Pendongeng Islami | 1 | Paket | Rp 1.200.000 | Rp 1.200.000 |
+| 3 | Bukber Peserta | 95 | Anak | Rp 12.000 | Rp 1.140.000 |
+| 4 | Snack Peserta | 95 | Anak | Rp 12.000 | Rp 1.140.000 |
+| 5 | Medali | 70 | Anak | Rp 10.000 | Rp 700.000 |
+| 6 | ATK Sanlat | 1 | Paket | Rp 200.000 | Rp 200.000 |
+| 7 | Biaya Tak Terduga | 1 | Paket | Rp 200.000 | Rp 200.000 |
+|    | **Subtotal Sanlat Anak** | | | | **Rp 4.730.000**|
 
-## A. Struktur Panitia
+## B. Halal Bihalal
+| No | Uraian | Volume | Satuan | Harga Satuan | Jumlah |
+| -- | ------ | ------ | ------ | ------------ | ------ |
+| 1 | Nasi Prasmanan | 250 | Orang | Rp 35.000 | Rp 8.750.000 |
+| 2 | Spanduk Halal Bihalal | 1 | Unit | Rp 200.000 | Rp 200.000 |
+| 3 | Es Teh Solo | 250 | Orang | Rp 5.000 | Rp 1.250.000 |
+| 4 | Puding | 250 | Orang | Rp 5.000 | Rp 1.250.000 |
+| 5 | Buah | 250 | Orang | Rp 3.000 | Rp 750.000 |
+| 6 | Kacang | 1 | Paket | Rp 300.000 | Rp 300.000 |
+| 7 | Penceramah | 1 | Paket | Rp 500.000 | Rp 500.000 |
+| 8 | Sewa Tenda | 1 | Paket | Rp 1.000.000 | Rp 1.000.000 |
+| 9 | Ice Cream | 250 | Orang | Rp 5.000 | Rp 1.250.000 |
+| 10 | Biaya Tak Terduga | 1 | Paket | Rp 250.000 | Rp 250.000 |
+|    | **TOTAL HALAL BIHALAL** | | | | **Rp 15.500.000**|
 
-**Penanggung Jawab:**
--   Ketua RW 19
--   Ketua RT 1, 2, 3, 4, 5
+## C. Kegiatan Ramadhan Lainnya
+| No | Uraian | Volume | Satuan | Harga Satuan | Jumlah |
+| -- | ------ | ------ | ------ | ------------ | ------ |
+| 1 | Buka Bersama (Penutupan Sanlat) | 50 | Orang | Rp 20.000 | Rp 1.000.000 |
+| 2 | Transport Ustadzah (Tadarus Ibu) | 2 | Hari | Rp 100.000 | Rp 200.000 |
+| 3 | Kajian Ramadhan | 5 | Sesi | Rp 400.000 | Rp 2.000.000 |
+| 4 | Imam & Bilal Ramadhan | 1 | Paket | Rp 600.000 | Rp 600.000 |
+| 5 | Konsumsi Tadarus | 5 | Sesi | Rp 200.000 | Rp 1.000.000 |
+|    | **TOTAL KEGIATAN LAIN** | | | | **Rp 4.800.000**|
 
-**Pelindung:**
--   Ketua DKM: Bagus Windhu Aponsa
--   Tokoh Masyarakat RW 19
--   Tokoh Agama RW 19
+## D. Rekapitulasi Akhir
 
-**Ketua Panitia:** (Kosong)
+1. Total Sanlat Anak: **Rp 4.730.000**
+2. Total Halal Bihalal: **Rp 15.500.000**
+3. Total Kegiatan Lainnya: **Rp 4.800.000**
 
-**Sekretaris:** Adriatmoko
-
-**Bendahara:** Akbar Kresna
-
-## B. Seksi-Seksi Pelaksana
-
-| Seksi             | Koordinator | Anggota |
-| ----------------- | ----------- | ------- |
-| Seksi Acara       | ........... | ........... |
-| Seksi Konsumsi    | ........... | ........... |
-| Seksi Perlengkapan| ........... | ........... |
-| Seksi Dokumentasi | ........... | ........... |
-| Seksi Humas       | ........... | ........... |
-| Seksi Keamanan    | ........... | ........... |
-| Seksi Kebersihan  | ........... | ........... |
-
-## C. Tugas dan Tanggung Jawab
-
-**Ketua Panitia:**
--   Memimpin dan mengkoordinir seluruh rangkaian kegiatan
--   Bertanggung jawab atas kelancaran pelaksanaan kegiatan
--   Mengambil keputusan strategis selama persiapan dan pelaksanaan
-
-**Sekretaris:**
--   Menyiapkan administrasi dan surat-menyurat
--   Mendokumentasikan proposal dan laporan kegiatan
--   Membuat notulen rapat panitia
-
-**Bendahara:**
--   Mengelola keuangan kegiatan
--   Mencatat pemasukan dan pengeluaran
--   Membuat laporan keuangan
-
-**Seksi Acara:**
--   Menyusun jadwal dan rundown kegiatan
--   Mengkoordinir pemateri/penceramah
--   Memastikan kelancaran acara
-
-**Seksi Konsumsi:**
--   Menyiapkan konsumsi untuk setiap kegiatan
--   Mengatur distribusi makanan dan minuman
--   Menjaga kebersihan area konsumsi
-
-**Seksi Perlengkapan:**
--   Menyiapkan peralatan dan perlengkapan kegiatan
--   Mengatur tata ruang dan dekorasi
--   Memastikan ketersediaan sound system dan listrik
-
-**Seksi Dokumentasi:**
--   Mendokumentasikan kegiatan dalam bentuk foto dan video
--   Membuat laporan dokumentasi
--   Mengarsipkan materi kegiatan
-
-**Seksi Humas:**
--   Menyebarkan informasi kegiatan kepada warga
--   Menjalin komunikasi dengan pihak terkait
--   Melayani pertanyaan dan masukan warga
-
-**Seksi Keamanan:**
--   Menjaga keamanan dan ketertiban selama kegiatan
--   Mengatur parkir dan lalu lintas warga
--   Berkoordinasi dengan keamanan cluster
-
-**Seksi Kebersihan:**
--   Menjaga kebersihan lokasi kegiatan
--   Mengkoordinir cleanup setelah acara
--   Menyediakan tempat sampah
+**GRAND TOTAL: Rp 25.030.000**
 
 ---
 
-<!-- PAGE BREAK -->
+# BAB V: PENUTUP
 
----
+Demikian proposal ini kami susun sebagai pedoman pelaksanaan. Kami mengajak seluruh warga RW 19 Cluster Sriwijaya untuk berpartisipasi aktif, baik dalam bentuk kehadiran, bantuan tenaga, maupun donasi sukarela.
 
-# BAB IV
-
-# RENCANA ANGGARAN BIAYA
-
-## A. KEGIATAN RAMADHAN
-
-### 1. Pesantren Kilat (Sanlat)
-
-| No | Uraian                    | Volume | Harga Satuan    | Jumlah          |
-| -- | ------------------------- | ------ | --------------- | --------------- |
-| 1  | Spanduk Kegiatan          | 1 buah | Rp150.000       | Rp150.000       |
-| 2  | Honor Pendongeng Islami   | 1 kali | Rp1.200.000     | Rp1.200.000     |
-| 3  | Buka Puasa Peserta        | 50 org | Rp19.000        | Rp950.000       |
-| 4  | Snack Peserta             | 50 org | Rp19.000        | Rp950.000       |
-| 5  | Medali Penghargaan        | 50 bh  | Rp14.000        | Rp700.000       |
-| 6  | ATK & Fotocopy Materi     | 1 paket| Rp200.000       | Rp200.000       |
-| 7  | Biaya Tak Terduga         | 1 paket| Rp200.000       | Rp200.000       |
-|    | **Subtotal Sanlat**       |        |                 | **Rp4.350.000** |
-
-### 2. Kajian Ramadhan
-
-| No | Uraian                    | Volume | Harga Satuan    | Jumlah          |
-| -- | ------------------------- | ------ | --------------- | --------------- |
-| 1  | Honor Penceramah          | 5 kali | Rp400.000       | Rp2.000.000     |
-|    | **Subtotal Kajian**       |        |                 | **Rp2.000.000** |
-
-### 3. Imam & Bilal Ramadhan
-
-| No | Uraian                    | Volume | Harga Satuan    | Jumlah          |
-| -- | ------------------------- | ------ | --------------- | --------------- |
-| 1  | Honor Imam                | 1 kali | Rp400.000       | Rp400.000       |
-| 2  | Honor Bilal               | 1 kali | Rp200.000       | Rp200.000       |
-|    | **Subtotal Imam & Bilal** |        |                 | **Rp600.000**   |
-
-### 4. Konsumsi Tadarus Al-Qur'an
-
-| No | Uraian                    | Volume | Harga Satuan    | Jumlah          |
-| -- | ------------------------- | ------ | --------------- | --------------- |
-| 1  | Konsumsi 5 Pertemuan      | 5 kali | Rp200.000       | Rp1.000.000     |
-|    | **Subtotal Tadarus**      |        |                 | **Rp1.000.000** |
-
-### 5. Buka Bersama Penutupan Sanlat
-
-| No | Uraian                    | Volume | Harga Satuan    | Jumlah          |
-| -- | ------------------------- | ------ | --------------- | --------------- |
-| 1  | Konsumsi Peserta          | 50 org | Rp20.000        | Rp1.000.000     |
-|    | **Subtotal Bukber**       |        |                 | **Rp1.000.000** |
-
-### TOTAL KEGIATAN RAMADHAN
-
-| No | Keterangan                | Jumlah          |
-| -- | ------------------------- | --------------- |
-| 1  | Pesantren Kilat           | Rp4.350.000     |
-| 2  | Kajian Ramadhan           | Rp2.000.000     |
-| 3  | Imam & Bilal              | Rp600.000       |
-| 4  | Konsumsi Tadarus          | Rp1.000.000     |
-| 5  | Bukber Penutupan Sanlat   | Rp1.000.000     |
-|    | **TOTAL RAMADHAN**        | **Rp8.950.000** |
-
----
-
-## B. HALAL BIHALAL
-
-| No | Uraian                    | Volume | Harga Satuan    | Jumlah          |
-| -- | ------------------------- | ------ | --------------- | --------------- |
-| 1  | Nasi Prasmanan            | 350 org| Rp25.000        | Rp8.750.000     |
-| 2  | Spanduk Halal Bihalal     | 1 buah | Rp200.000       | Rp200.000       |
-| 3  | Es Teh                    | 350 org| Rp3.500         | Rp1.250.000     |
-| 4  | Puding                    | 350 org| Rp3.500         | Rp1.250.000     |
-| 5  | Buah-buahan               | 1 paket| Rp750.000       | Rp750.000       |
-| 6  | Kacang & Camilan          | 1 paket| Rp300.000       | Rp300.000       |
-| 7  | Honor Penceramah          | 1 kali | Rp500.000       | Rp500.000       |
-| 8  | Sewa Tenda                | 1 paket| Rp1.000.000     | Rp1.000.000     |
-| 9  | Ice Cream                 | 350 org| Rp3.500         | Rp1.250.000     |
-| 10 | Biaya Tak Terduga         | 1 paket| Rp250.000       | Rp250.000       |
-|    | **Subtotal Halal Bihalal**|        |                 | **Rp15.500.000**|
-
----
-
-## C. REKAPITULASI TOTAL
-
-| No | Keterangan                | Jumlah          |
-| -- | ------------------------- | --------------- |
-| 1  | Total Kegiatan Ramadhan   | Rp8.950.000     |
-| 2  | Total Halal Bihalal       | Rp15.500.000    |
-|    | **TOTAL KESELURUHAN**     | **Rp24.450.000**|
-
-
----
-
-<!-- PAGE BREAK -->
-
----
-
-# BAB V
-
-# PENUTUP
-
-## A. Kesimpulan
-
-Demikian proposal kegiatan Ramadhan dan Halal Bihalal 1446 H RW 19 Cluster Sriwijaya Darmawangsa Residence – Bekasi ini kami susun sebagai pedoman pelaksanaan kegiatan serta bentuk transparansi kepada seluruh warga.
-
-Proposal ini mencakup latar belakang, tujuan, rencana kegiatan, susunan panitia, dan rencana anggaran biaya yang diperlukan untuk kelancaran seluruh rangkaian kegiatan.
-
-## B. Harapan
-
-Kami berharap seluruh warga RW 19 Cluster Sriwijaya dapat berpartisipasi aktif dan mendukung kegiatan ini demi terciptanya lingkungan yang religius, harmonis, dan penuh kebersamaan.
-
-Dukungan dapat berupa:
--   Kehadiran dalam setiap kegiatan
--   Donasi sukarela untuk kelancaran acara
--   Tenaga dan waktu untuk membantu pelaksanaan
--   Doa untuk keberkahan kegiatan
-
-## C. Permohonan Maaf
-
-Sebagai manusia, kami menyadari bahwa proposal ini masih memiliki kekurangan. Oleh karena itu, kritik dan saran yang membangun sangat kami harapkan untuk perbaikan di masa mendatang.
-
-Semoga seluruh rangkaian kegiatan Ramadhan dan Halal Bihalal 1446 H ini mendapatkan ridho dan keberkahan dari Allah SWT, serta memberikan manfaat bagi seluruh warga RW 19 Cluster Sriwijaya.
-
-Aamiin Ya Rabbal 'Alamiin.
-
-<br>
-<br>
-
-Wassalamu'alaikum Warahmatullahi Wabarakatuh.
-
-<br>
-<br>
+Semoga Allah SWT meridhoi niat tulus kita semua. Aamiin.
 
 Bekasi, Februari 2026
 
-<br>
-<br>
-
 **Panitia Ramadhan RW 19 Cluster Sriwijaya**
-
-<br>
-<br>
-<br>
 
 **Bagus Windhu Aponsa**
 Ketua Panitia
 
-<br>
-
 **Adriatmoko**
 Sekretaris
-
-<br>
 
 **Akbar Kresna**
 Bendahara
 
 ---
 
-<!-- PAGE BREAK -->
-
----
-
 # LAMPIRAN
 
-## Lampiran 1: Jadwal Detail Kegiatan Ramadhan 1446 H
-
-*(Akan dilampirkan setelah rapat koordinasi panitia)*
-
-## Lampiran 2: Daftar Hadir Peserta Sanlat
-
-*(Formulir terpisah)*
-
-## Lampiran 3: Format Laporan Keuangan
-
-*(Formulir terpisah)*
-
-## Lampiran 4: Denah Lokasi Kegiatan
-
-*(Akan dilampirkan gambar denah masjid/area cluster)*
-
----
-
-**Dokumentasi Kegiatan Tahun Sebelumnya:**
-
-*(Foto-foto kegiatan Ramadhan tahun sebelumnya dapat dilampirkan di sini)*
-
----
-
-**Kontak Panitia:**
-
-Untuk informasi lebih lanjut, dapat menghubungi:
--   Ketua Panitia: Bagus Windhu Aponsa
--   Sekretaris: Adriatmoko
--   Bendahara: Akbar Kresna
-
----
+1. **Jadwal Detail:** (Akan dilampirkan setelah rapat koordinasi)
+2. **Formulir Pendaftaran Sanlat:** (Tersedia secara terpisah)
+3. **Kontak Panitia:**
+   - Bagus Windhu Aponsa (Ketua)
+   - Adriatmoko (Sekretaris)
+   - Akbar Kresna (Bendahara)
