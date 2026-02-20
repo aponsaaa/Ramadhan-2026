@@ -1,10 +1,10 @@
 # PROPOSAL KEGIATAN
-# RAMADHAN DAN HALAL BIHALAL 1446 H
+# RAMADHAN DAN HALAL BIHALAL 1447 H
 
 **RW 19 – CLUSTER SRIWIJAYA**
 **Darmawangsa Residence – Bekasi**
 
-**Tahun 2026 M / 1446 H**
+**Tahun 2026 M / 1447 H**
 
 ---
 
@@ -12,7 +12,7 @@
 
 Assalamu'alaikum Warahmatullahi Wabarakatuh
 
-Puji dan syukur kita panjatkan ke hadirat Allah SWT atas rahmat, taufik, dan hidayah-Nya sehingga kita kembali dipertemukan dengan bulan suci Ramadhan 1446 H yang penuh keberkahan, ampunan, dan kemuliaan. Shalawat serta salam semoga tercurah kepada Nabi Muhammad SAW, keluarga, sahabat, dan seluruh umatnya yang senantiasa istiqomah dalam menjalankan ajaran Islam.
+Puji dan syukur kita panjatkan ke hadirat Allah SWT atas rahmat, taufik, dan hidayah-Nya sehingga kita kembali dipertemukan dengan bulan suci Ramadhan 1447 H yang penuh keberkahan, ampunan, dan kemuliaan. Shalawat serta salam semoga tercurah kepada Nabi Muhammad SAW, keluarga, sahabat, dan seluruh umatnya yang senantiasa istiqomah dalam menjalankan ajaran Islam.
 
 Dalam rangka menyambut dan memaknai bulan suci Ramadhan dengan lebih bermakna, RW 19 Cluster Sriwijaya Darmawangsa Residence – Bekasi menyelenggarakan rangkaian kegiatan keagamaan dan sosial yang melibatkan seluruh lapisan warga, mulai dari anak-anak hingga orang tua. Kegiatan ini dirancang untuk menciptakan suasana Ramadhan yang khusyuk, edukatif, dan penuh kebersamaan.
 
@@ -30,7 +30,7 @@ Bekasi, Februari 2026
 
 # LEMBAR PENGESAHAN
 
-Proposal kegiatan Ramadhan dan Halal Bihalal 1446 H RW 19 Cluster Sriwijaya Darmawangsa Residence – Bekasi telah disusun dan disahkan pada:
+Proposal kegiatan Ramadhan dan Halal Bihalal 1447 H RW 19 Cluster Sriwijaya Darmawangsa Residence – Bekasi telah disusun dan disahkan pada:
 
 | Atribut      | Keterangan                       |
 | ------------ | -------------------------------- |
@@ -70,7 +70,7 @@ Sebagai bagian dari masyarakat RW 19 Cluster Sriwijaya, penting bagi kita untuk 
 
 ## B. Tujuan Kegiatan
 
-1. Menyambut dan memeriahkan bulan suci Ramadhan 1446 H dengan kegiatan yang positif dan bermanfaat.
+1. Menyambut dan memeriahkan bulan suci Ramadhan 1447 H dengan kegiatan yang positif dan bermanfaat.
 2. Meningkatkan keimanan dan ketakwaan warga kepada Allah SWT melalui ibadah puasa, shalat tarawih, tadarus Al-Qur'an, dan kajian Islam.
 3. Membentuk generasi muda yang berakhlak mulia dan berlandaskan nilai-nilai Islam sejak dini.
 4. Mempererat silaturahmi dan ukhuwah Islamiyah antar warga RW 19 Cluster Sriwijaya.
@@ -88,7 +88,7 @@ Sebagai bagian dari masyarakat RW 19 Cluster Sriwijaya, penting bagi kita untuk 
 
 ## A. Nama dan Bentuk Kegiatan
 
-Nama kegiatan ini adalah **"Ramadhan dan Halal Bihalal 1446 H RW 19 Cluster Sriwijaya"** dengan rincian kegiatan sebagai berikut:
+Nama kegiatan ini adalah **"Ramadhan dan Halal Bihalal 1447 H RW 19 Cluster Sriwijaya"** dengan rincian kegiatan sebagai berikut:
 
 ### 1. Shalat Tarawih & Kajian Ramadhan
 Shalat Tarawih berjamaah yang disertai dengan kajian Islam rutin.
