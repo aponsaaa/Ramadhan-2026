@@ -147,7 +147,7 @@ Kajian Islam rutin yang menghadirkan penceramah dari berbagai latar belakang unt
 | Jumlah         | 5 kali pertemuan              |
 | Peserta        | Seluruh warga RW 19           |
 | Waktu          | Malam hari (ba'da Tarawih)    |
-| Tempat         | Masjid/Musholla Cluster       |
+| Tempat         | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster       |
 | Konsumsi       | Snack dan minuman             |
 
 ### 2. Pesantren Kilat (Sanlat) Anak – 3 Hari
@@ -160,7 +160,7 @@ Program pendidikan Islam intensif untuk anak-anak usia 6-12 tahun dengan materi 
 | Peserta        | Anak-anak usia 6-12 tahun           |
 | Materi         | Aqidah, Fiqih, Akhlak, Hafalan      |
 | Waktu          | Ba'da Ashar - Maghrib               |
-| Tempat         | Masjid/Musholla Cluster             |
+| Tempat         | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster             |
 | Konsumsi       | Snack dan buka puasa bersama        |
 | Penutupan      | Pembagian hadiah dan medali         |
 
@@ -173,7 +173,7 @@ Kegiatan membaca dan mempelajari Al-Qur'an secara bersama-sama untuk meningkatka
 | Jumlah         | 5 kali pertemuan              |
 | Peserta        | Bapak-bapak warga RW 19       |
 | Waktu          | Ba'da Subuh atau ba'da Ashar  |
-| Tempat         | Masjid/Musholla Cluster       |
+| Tempat         | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster       |
 | Konsumsi       | Snack dan minuman             |
 
 ### 4. Imam & Bilal Ramadhan (1 Pertemuan)
@@ -182,9 +182,9 @@ Pelatihan dan praktik menjadi imam dan bilal untuk shalat tarawih berjamaah.
 
 | Detail         | Keterangan                    |
 | -------------- | ----------------------------- |
-| Peserta        | Remaja dan dewasa             |
+| Peserta        | Seluruh warga RW 19             |
 | Waktu          | 1 kali pertemuan              |
-| Tempat         | Masjid/Musholla Cluster       |
+| Tempat         | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster       |
 | Materi         | Praktik imam dan bilal        |
 
 ### 5. Buka Bersama Penutupan Sanlat
@@ -196,7 +196,7 @@ Acara buka puasa bersama sebagai penutupan rangkaian Pesantren Kilat anak-anak, 
 | Peserta        | Anak-anak Sanlat + Orang Tua  |
 | Jumlah         | ±50 orang                     |
 | Waktu          | Ba'da Ashar - Isya            |
-| Tempat         | Masjid/Musholla Cluster       |
+| Tempat         | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster       |
 | Konsumsi       | Makan malam prasmanan         |
 
 ### 6. Halal Bihalal Warga RW 19
@@ -215,11 +215,11 @@ Acara silaturahmi akbar warga RW 19 setelah Idul Fitri untuk saling memaafkan da
 
 | No | Kegiatan                      | Waktu Pelaksanaan        | Tempat                  |
 | -- | ----------------------------- | ------------------------ | ----------------------- |
-| 1  | Kajian Ramadhan               | 5 malam (ba'da Tarawih)  | Masjid Cluster          |
-| 2  | Pesantren Kilat Anak          | 3 hari berturut-turut    | Masjid Cluster          |
-| 3  | Tadarus Al-Qur'an             | 5 pertemuan              | Masjid Cluster          |
-| 4  | Imam & Bilal Ramadhan         | 1 pertemuan              | Masjid Cluster          |
-| 5  | Buka Bersama Penutupan Sanlat | Akhir Ramadhan           | Masjid Cluster          |
+| 1  | Kajian Ramadhan               | 5 malam (ba'da Tarawih)  | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster          |
+| 2  | Pesantren Kilat Anak          | 3 hari berturut-turut    | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster          |
+| 3  | Tadarus Al-Qur'an             | 5 pertemuan              | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster          |
+| 4  | Imam & Bilal Ramadhan         | 1 pertemuan              | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster          |
+| 5  | Buka Bersama Penutupan Sanlat | Akhir Ramadhan           | Masjid Jamie Dr. Abdulrahman Abdullah Al Sayegh Cluster          |
 | 6  | Halal Bihalal Warga           | Setelah Idul Fitri 1446H | Area Cluster Sriwijaya  |
 
 ## C. Peserta Kegiatan
