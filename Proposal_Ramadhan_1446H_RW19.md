@@ -73,7 +73,7 @@ Proposal kegiatan Ramadhan dan Halal Bihalal 1446 H RW 19 Cluster Sriwijaya Darm
 
 |                     |                     |                     |
 | ------------------- | ------------------- | ------------------- |
-| **Ketua RW 19**     | **Ketua DKM**       | **Sekretaris**      |
+| **Ketua RW 19**     | **Ketua Panitia**       | **Sekretaris**      |
 |                     |                     |                     |
 |                     |                     |                     |
 | _________________   | _________________   | _________________   |
@@ -415,16 +415,6 @@ Peserta kegiatan ini adalah seluruh warga RW 19 Cluster Sriwijaya Darmawangsa Re
 | 2  | Total Halal Bihalal       | Rp15.500.000    |
 |    | **TOTAL KESELURUHAN**     | **Rp24.450.000**|
 
----
-
-## D. SUMBER DANA
-
-Sumber dana kegiatan ini berasal dari:
-
-1.  Iuran wajib warga RW 19
-2.  Donasi sukarela warga
-3.  Sponsorship dari pihak ketiga
-4.  Kas RW / Kas DKM
 
 ---
 
@@ -480,7 +470,7 @@ Bekasi, Februari 2026
 <br>
 
 **Bagus Windhu Aponsa**
-Ketua DKM / Pelindung
+Ketua Panitia
 
 <br>
 
@@ -527,9 +517,8 @@ Bendahara
 **Kontak Panitia:**
 
 Untuk informasi lebih lanjut, dapat menghubungi:
--   Pelindung: Bagus Windhu Aponsa (Ketua DKM)
+-   Ketua Panitia: Bagus Windhu Aponsa
 -   Sekretaris: Adriatmoko
 -   Bendahara: Akbar Kresna
--   Ketua Panitia: (Akan diisi)
 
 ---
